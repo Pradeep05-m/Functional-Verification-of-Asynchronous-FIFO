@@ -1,5 +1,6 @@
 # Experiment 8: Functional Verification of Asynchronous FIFO
-
+## Pradeep M
+## 212223060200
 ---
 
 ## Aim  
@@ -189,7 +190,8 @@ endmodule
 ```
 ### Simulation Output
 
---- Paste the output here
+<img width="1920" height="1080" alt="Screenshot 2025-11-10 085911" src="https://github.com/user-attachments/assets/089d1a45-6c18-41f7-94c7-cdae02231ded" />
+
 
 ### Result
 
